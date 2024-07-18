@@ -1,3 +1,4 @@
 # Hello-world
-このリポジトリはGitHub Flowを実行するためのリポジトリです
 I'm Hifky.
+
+This is a practice repository.
